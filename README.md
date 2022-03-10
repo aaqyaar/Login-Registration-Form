@@ -8,6 +8,6 @@
 
 # ` To Work This Desktop App, Just Clone or Download This Repo `
 ```
-  @Data Source = your Servername,...........
+  ⚡ @Data Source = change into your Servername,...........
 ```
 👍 Good Luck ⚡
