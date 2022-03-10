@@ -6,7 +6,7 @@
 * Full Validation For Submitting The Form
 * Beutifull Modern UI Design.
 
-# ` To Work This Desktop App, Just Clone or Download This Repo `
+# ` To Work This Desktop App, Just Clone or Download This Repo and do this step.👎`
 ```
   ⚡ @Data Source = change into your Servername,...........
 ```
