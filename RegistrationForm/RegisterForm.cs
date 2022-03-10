@@ -30,7 +30,7 @@ namespace RegistrationForm
             string connetionString;
             SqlConnection cnn;
 
-            connetionString = @"Data Source=AAQYAAR\SQLEXPRESS;Initial Catalog=RegistrationDB;Integrated Security=SSPI;";
+            connetionString = @"Data Source=servername;Initial Catalog=RegistrationDB;Integrated Security=SSPI;";
             cnn = new SqlConnection(connetionString);
 
             SqlCommand command;
